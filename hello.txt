@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-this is roxy faiz
-This is Tarannum
-this is faiza
-=======
-This is Salma
-This is Salma
->>>>>>> 224d08ba3cd8a0929e22c0e7feebc45eebc59488
+this is ockk
